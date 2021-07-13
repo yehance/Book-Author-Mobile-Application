@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Who Wrote it</string>
+    <string name="enter_a_book_name_or_part_of_a_book_name_or_just_some_text_from_a_book_to_find_the_full_book_title_and_who_wrote_the_book">Enter a book name, or part of a book name, or just some text from a book to find the full book title and who wrote the book!</string>
+    <string name="book_title">Book Title</string>
+    <string name="search_book">Search Book</string>
+</resources>
